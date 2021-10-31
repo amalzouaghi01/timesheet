@@ -593,3 +593,5 @@ Verify the connector's configuration, identify and stop any process that's liste
 2021-10-31 22:13:34.316  INFO 11212 --- [main] o.h.h.i.QueryTranslatorFactoryInitiator  : HHH000397: Using ASTQueryTranslatorFactory
 2021-10-31 22:13:35.363  INFO 11212 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
 2021-10-31 22:13:35.456  WARN 11212 --- [main] aWebConfiguration$JpaWebMvcConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-10-31 22:13:35.885  INFO 11212 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8084 (http) with context path '/SpringMVC'
+2021-10-31 22:13:35.888  INFO 11212 --- [main] SpringBootCoreDataJpaMvcRest1Application : Started TimesheetSpringBootCoreDataJpaMvcRest1Application in 13.332 seconds (JVM running for 15.295)
